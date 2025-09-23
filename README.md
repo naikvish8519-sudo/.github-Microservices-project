@@ -90,10 +90,15 @@ Docker
  (for containerized setup)
 
 Clone Repositories
-git clone https://github.com/<org-name>/OrdersMicroservice.git
-git clone https://github.com/<org-name>/ProductMicroservice.git
-git clone https://github.com/<org-name>/UsersMicroservice.git
-git clone https://github.com/<org-name>/ReactPizza.git
+
+
+https://github.com/<org-name>/OrdersMicroservice.git
+
+https://github.com/<org-name>/ProductMicroservice.git
+
+https://github.com/<org-name>/UsersMicroservice.git
+
+https://github.com/<org-name>/ReactPizza.git
 
 Running Locally
 Backend (example for Orders service)
