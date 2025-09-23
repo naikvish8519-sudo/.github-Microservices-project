@@ -1,3 +1,7 @@
+🍕 Pizza Ordering App
+
+Description:
+A full-stack pizza ordering application built with React (frontend) and .NET microservices (backend). Users can browse available pizza sizes, customize their order with veg and non-veg toppings, adjust quantities, and add items to a global shopping cart. The app features a responsive UI, real-time cart updates using React Context, and dynamic price calculations per pizza and for the grand total. It also includes loading states with spinners for better UX. The backend microservices (Products, Users, Orders) are deployed to Azure App Services, and the frontend React app is hosted with integration to these APIs.
 🍕 React Pizza Frontend
 
 Purpose: Frontend React app with Pizza Builder, Cart, and Checkout
