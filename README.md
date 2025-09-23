@@ -3,8 +3,8 @@
 .
 
 📂 Microservices Overview
-🛒 Orders Microservice
 
+🛒 Orders Microservice
 Manages customer orders and order items.
 
 Uses MongoDB (NoSQL) or SQL Server for persistence.
@@ -14,7 +14,6 @@ Provides REST APIs for create, update, delete, and search operations.
 Swagger/OpenAPI available for API exploration.
 
 📦 Products Microservice
-
 Handles product catalog, categories, and pricing.
 
 Built with .NET 8, EF Core, and SQL Server.
@@ -22,7 +21,6 @@ Built with .NET 8, EF Core, and SQL Server.
 Supports CRUD operations and integrates with Orders service.
 
 👤 Users Microservice
-
 Manages user registration, authentication, and roles.
 
 Implements JWT-based authentication.
@@ -30,7 +28,6 @@ Implements JWT-based authentication.
 Provides APIs for login, registration, and profile management.
 
 🍕 React Pizza Frontend
-
 React 18 app for frontend ordering experience.
 
 Features:
