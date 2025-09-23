@@ -45,7 +45,7 @@ https://github.com/naikvish8519-sudo/ProductMicroservice
 Purpose: Cart Persistence & Order Checkout
 
 Live Swagger:
-micro-orderservice-bnc2gjg2h5emhqby.canadacentral-01.azurewebsites.net
+https://micro-orderservice-bnc2gjg2h5emhqby.canadacentral-01.azurewebsites.net
 
 GitHub Repo:
 https://github.com/naikvish8519-sudo/OrdersMicroservice
