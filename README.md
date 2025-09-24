@@ -48,7 +48,7 @@ Live Swagger:
 https://micro-orderservice-bnc2gjg2h5emhqby.canadacentral-01.azurewebsites.net
 
 GitHub Repo:
-https://github.com/naikvish8519-sudo/OrdersMicroservice
+https://github.com/naikvish8519-sudo/OrderMicroservice
 
 <img width="1042" height="871" alt="image" src="https://github.com/user-attachments/assets/a732175c-87d5-42b1-af19-ed7d40e869e4" />
 
