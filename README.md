@@ -9,7 +9,7 @@ Purpose: Frontend React app with Pizza Builder, Cart, and Checkout
 Live App:
 REACT-https://react-pizza-gsdtecavejezewfr.canadacentral-01.azurewebsites.net
 
-ANGULAR-pizzaorderclient-b2ddeaduhfcvereu.canadacentral-01.azurewebsites.net
+ANGULAR-https://pizzaorderclient-b2ddeaduhfcvereu.canadacentral-01.azurewebsites.net
 
 GitHub Repo:
 https://github.com/naikvish8519-sudo/Pizzaorder-React-App
