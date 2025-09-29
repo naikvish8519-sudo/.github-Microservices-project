@@ -7,7 +7,8 @@ A full-stack pizza ordering application built with React (frontend) and .NET mic
 Purpose: Frontend React app with Pizza Builder, Cart, and Checkout
 
 Live App:
-https://react-pizza-gsdtecavejezewfr.canadacentral-01.azurewebsites.net
+REACT-https://react-pizza-gsdtecavejezewfr.canadacentral-01.azurewebsites.net
+ANGULAR-pizzaorderclient-b2ddeaduhfcvereu.canadacentral-01.azurewebsites.net
 
 GitHub Repo:
 https://github.com/naikvish8519-sudo/Pizzaorder-React-App
